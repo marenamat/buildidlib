@@ -12,3 +12,5 @@ https://security.debian.org/debian-security/dists/bookworm-security/main/binary-
 https://security.debian.org/debian-security/dists/bookworm-security/main/binary-i386/Packages.gz
 https://security.debian.org/debian-security/dists/bookworm-security/non-free-firmware/binary-amd64/Packages.gz
 https://security.debian.org/debian-security/dists/bookworm-security/non-free-firmware/binary-i386/Packages.gz
+https://deb.debian.org/debian-debug/dists/trixie-debug/Release
+https://deb.debian.org/debian-debug/dists/bookworm-debug/Release
